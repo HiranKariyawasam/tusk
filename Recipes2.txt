@@ -6,6 +6,7 @@ pasta
 chicken curry
 pork fry
 lamb curry
-
+beans
+pizza
 
 thank you
